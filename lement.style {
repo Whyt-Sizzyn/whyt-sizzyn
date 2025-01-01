@@ -1,0 +1,21 @@
+lement.style {
+}
+.anonymous-tooltip {
+    margin-top: 12px;
+    font-size: 14px;
+    color: white;
+    margin-bottom: 12px;
+    text-align: center;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    font: 14px "Avenir Next", Helvetica, Arial, sans-serif;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
